@@ -15,8 +15,6 @@ class NudgesLanguageTableViewController: UITableViewController {
     @IBOutlet weak var ukrainianLanguageCell: UITableViewCell!
     @IBOutlet weak var frenchLanguageCell: UITableViewCell!
     
-//    @IBOutlet weak var italianLanguageCell: UITableViewCell!
-    
     override func viewWillAppear(_ animated: Bool) {
         
         checkThemeMode()
@@ -109,11 +107,6 @@ class NudgesLanguageTableViewController: UITableViewController {
             frenchLanguageCell.tintColor = .white
             frenchLanguageCell.backgroundColor = cellColor
             
-//            italianLanguageCell.textLabel?.textColor = textColor
-//            italianLanguageCell.detailTextLabel?.textColor = textColor
-//            italianLanguageCell.tintColor = .white
-//            italianLanguageCell.backgroundColor = cellColor
-            
             tableView.separatorColor = #colorLiteral(red: 0.1537629068, green: 0.148864001, blue: 0.1489192247, alpha: 1)
             
         } else {
@@ -147,11 +140,6 @@ class NudgesLanguageTableViewController: UITableViewController {
             frenchLanguageCell.detailTextLabel?.textColor = textColor
             frenchLanguageCell.tintColor = .black
             frenchLanguageCell.backgroundColor = viewColor
-            
-//            italianLanguageCell.textLabel?.textColor = textColor
-//            italianLanguageCell.detailTextLabel?.textColor = textColor
-//            italianLanguageCell.tintColor = .black
-//            italianLanguageCell.backgroundColor = viewColor
             
             tableView.separatorColor = .lightGray
         }
