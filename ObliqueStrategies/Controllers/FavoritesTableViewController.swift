@@ -14,10 +14,7 @@ class FavoritesTableViewController: UITableViewController, GADBannerViewDelegate
     lazy var adBannerView: GADBannerView = {
         let adBannerView = GADBannerView(adSize: kGADAdSizeSmartBannerPortrait)
         
-//        Test banner
-//        adBannerView.adUnitID = "ca-app-pub-3940256099942544/2934735716"
-//        antvcl banner
-        adBannerView.adUnitID = "ca-app-pub-1042229917638554/3627672795"
+        adBannerView.adUnitID = "ca-app-pub-3940256099942544/2934735716"
         
         adBannerView.delegate = self
         adBannerView.rootViewController = self
@@ -103,11 +100,6 @@ class FavoritesTableViewController: UITableViewController, GADBannerViewDelegate
         return adBannerView
     }
     
-//    override func tableView(_ tableView: UITableView, heightForHeaderInSection section: Int) -> CGFloat {
-//
-//        return adBannerView.frame.height
-//    }
-    
     func checkThemeMode() {
         
         if savedUserData.bool(forKey: "lightTheme") == false {
@@ -147,13 +139,6 @@ extension FavoritesTableViewController {
         
         tableView.tableHeaderView?.frame = bannerView.frame
         tableView.tableHeaderView = bannerView
-        
-//        let translateTransform = CGAffineTransform(translationX: 0, y: -bannerView.bounds.size.height)
-//        bannerView.transform = translateTransform
-//
-//        UIView.animate(withDuration: 0.5) {
-//            bannerView.transform = CGAffineTransform.identity
-//        }
     }
     
     func adView(_ bannerView: GADBannerView, didFailToReceiveAdWithError error: GADRequestError) {
