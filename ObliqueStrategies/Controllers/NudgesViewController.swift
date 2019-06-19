@@ -91,11 +91,6 @@ class NudgesViewController: UIViewController, GADInterstitialDelegate {
         present(activityViewController, animated: true, completion: nil)
     }
     
-//    override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
-//
-//        chooseAssignRandomNudge()
-//    }
-    
     override var canBecomeFirstResponder: Bool {
         
         get {
@@ -163,10 +158,7 @@ class NudgesViewController: UIViewController, GADInterstitialDelegate {
     
     private func createAndLoadInterstitial() -> GADInterstitial? {
         
-//        Test interstitial
-//        interstitial = GADInterstitial(adUnitID: "ca-app-pub-3940256099942544/4411468910")
-//        antvcl interstitial
-        interstitial = GADInterstitial(adUnitID: "ca-app-pub-1042229917638554/4068378694")
+        interstitial = GADInterstitial(adUnitID: "ca-app-pub-3940256099942544/4411468910")
         
         
         guard let interstitial = interstitial else {
