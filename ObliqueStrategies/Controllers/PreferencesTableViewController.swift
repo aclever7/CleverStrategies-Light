@@ -24,7 +24,6 @@ class PreferencesTableViewController: UITableViewController {
     
     var removeAdsProduct: SKProduct? {
         didSet {
-//            guard let product = removeAdsProduct else { return }
             
             if RemoveAdsHelper.canMakePayments() {
                 print("can make payments")
