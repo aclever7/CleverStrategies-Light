@@ -1,0 +1,42 @@
+/* About App */
+"About App" = "Про Додаток";
+
+/* App Language */
+"App Language" = "Мова додатку";
+
+/* Cancel */
+"Cancel" = "Скасувати";
+
+/* Cards Language */
+"Cards Language" = "Мова карток";
+
+/* About App */
+"CleverStrategies is aimed to help developers, designers, engineers and anyone who is stuck during idea evaluation process to refresh their mind and think out of the box. \n \nThis app is based on Oblique Strategies cards created by Brian Eno and Peter Schmidt in 1975 in order to boost up creativity thinking process. Since first release, these cards have been used by many creative people all over the world including Coldplay, David Bowie, Talking Heads and Devo. \n \nCleverStrategies app includes all 6 editions of time-proven Oblique Strategies cards. \nRight here. Right now. Ready to use. \n \nFor further information on the original Oblique Strategies created by Brian Eno and Peter Schmidt visit this site: \n \nhttps://www.enoshop.co.uk/product/oblique-strategies.html" = "Додаток CleverStrategies цілком було створено для розробників, дизайнерів, інженерів і всіх тих, хто зіткнувся з перешкодами і шукає нестандартні та креативні підходи задля їх подолання.\n\nБазою для цього додатку стали картки Oblique Strategies, розроблені Брайаном Ено і Пітером Шмідтом у 1975 році. Після першого видання інструмент стрімко набув поширення і припав до душі користувачам, серед яких Coldplay, Девід Боуї, Talking Heads, Devo та багато інших.\n\nДодаток CleverStrategies налічує картки всіх 6-ти видань Oblique Strategies. Наразі вони доступні у новому форматі. Прямо тут. Прямо зараз.\n\nДодаткову інформацію щодо оригінальних карток Oblique Strategies, створених Брайаном Ено і Пітером Шмідтом, можна отримати за посиланням:\n\nhttps://www.enoshop.co.uk/product/oblique-strategies.html\n";
+
+/* Favorites */
+"Favorites" = "Обране";
+
+/* Make a purchase */
+"Make a purchase" = "Придбати";
+
+/* Preferences */
+"Preferences" = "Налаштування";
+
+/* Purchase successfully restored. */
+"Purchase successfully restored." = "Покупка успішно відновлена.";
+
+/* Remove Ads */
+"REMOVE ADS" = "ПРИБРАТИ РЕКЛАМУ";
+
+/* Restore */
+"Restore" = "Відновити";
+
+/* Something went wrong... */
+"Something went wrong..." = "Сталась помилка...";
+
+/* You're all set */
+"You're all set" = "Готово!";
+
+/* Your purchase was successfull. */
+"Your purchase was successfull." = "Покупка здійснена успішно.";
+

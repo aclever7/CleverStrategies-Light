@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="M4Y-Lb-cyx">
+    <device id="retina6_1" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Clever Strategies Widget View Controller-->
+        <scene sceneID="cwh-vc-ff4">
+            <objects>
+                <viewController id="M4Y-Lb-cyx" customClass="CleverStrategiesWidgetViewController" customModule="CleverNudges_Widget" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" simulatedAppContext="notificationCenter" id="S3S-Oj-5AN">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="110"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <visualEffectView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kNp-9Y-ozd">
+                                <rect key="frame" x="0.0" y="0.0" width="320" height="110"/>
+                                <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="cxZ-wJ-e6L">
+                                    <rect key="frame" x="0.0" y="0.0" width="320" height="110"/>
+                                    <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                    <subviews>
+                                        <visualEffectView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Vk0-63-sDP">
+                                            <rect key="frame" x="0.0" y="0.0" width="320" height="110"/>
+                                            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="sMs-qi-7s3">
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="110"/>
+                                                <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                                                <subviews>
+                                                    <label opaque="NO" userInteractionEnabled="NO" alpha="0.75" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="FavoriteNudgeLabel" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="g33-wa-cIu">
+                                                        <rect key="frame" x="75.5" y="44.5" width="169.5" height="21.5"/>
+                                                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="18"/>
+                                                        <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                </subviews>
+                                                <constraints>
+                                                    <constraint firstAttribute="trailing" relation="greaterThanOrEqual" secondItem="g33-wa-cIu" secondAttribute="trailing" constant="5" id="7wl-TX-QLZ"/>
+                                                    <constraint firstItem="g33-wa-cIu" firstAttribute="centerX" secondItem="sMs-qi-7s3" secondAttribute="centerX" id="8Lp-pY-Xqg"/>
+                                                    <constraint firstItem="g33-wa-cIu" firstAttribute="leading" relation="greaterThanOrEqual" secondItem="sMs-qi-7s3" secondAttribute="leading" constant="5" id="DLD-D4-jF6"/>
+                                                    <constraint firstItem="g33-wa-cIu" firstAttribute="centerY" secondItem="sMs-qi-7s3" secondAttribute="centerY" id="IiU-ka-jsd"/>
+                                                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="g33-wa-cIu" secondAttribute="bottom" constant="5" id="Y8o-xG-fey"/>
+                                                    <constraint firstItem="g33-wa-cIu" firstAttribute="top" relation="greaterThanOrEqual" secondItem="sMs-qi-7s3" secondAttribute="top" constant="5" id="l7h-My-vvJ"/>
+                                                </constraints>
+                                            </view>
+                                            <vibrancyEffect>
+                                                <blurEffect style="extraLight"/>
+                                            </vibrancyEffect>
+                                        </visualEffectView>
+                                    </subviews>
+                                    <constraints>
+                                        <constraint firstAttribute="bottom" secondItem="Vk0-63-sDP" secondAttribute="bottom" id="EEQ-6O-XIN"/>
+                                        <constraint firstItem="Vk0-63-sDP" firstAttribute="leading" secondItem="cxZ-wJ-e6L" secondAttribute="leading" id="KPf-L1-k99"/>
+                                        <constraint firstItem="Vk0-63-sDP" firstAttribute="top" secondItem="cxZ-wJ-e6L" secondAttribute="top" id="ovF-rM-hCV"/>
+                                        <constraint firstAttribute="trailing" secondItem="Vk0-63-sDP" secondAttribute="trailing" id="pSm-y0-ffb"/>
+                                    </constraints>
+                                </view>
+                                <blurEffect style="light"/>
+                            </visualEffectView>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="ssy-KU-ocm" firstAttribute="trailing" secondItem="kNp-9Y-ozd" secondAttribute="trailing" id="0U2-ae-36J"/>
+                            <constraint firstAttribute="bottom" secondItem="kNp-9Y-ozd" secondAttribute="bottom" id="AaQ-Aj-tcr"/>
+                            <constraint firstItem="kNp-9Y-ozd" firstAttribute="top" secondItem="S3S-Oj-5AN" secondAttribute="top" id="eJb-jo-2M6"/>
+                            <constraint firstItem="kNp-9Y-ozd" firstAttribute="leading" secondItem="ssy-KU-ocm" secondAttribute="leading" id="h48-tX-JUn"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="ssy-KU-ocm"/>
+                    </view>
+                    <extendedEdge key="edgesForExtendedLayout"/>
+                    <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+                    <size key="freeformSize" width="320" height="110"/>
+                    <connections>
+                        <outlet property="favoriteNudgeLabel" destination="g33-wa-cIu" id="edp-Y4-B7D"/>
+                        <outlet property="favoriteNudgeWidgetEffect" destination="kNp-9Y-ozd" id="bmq-Kn-A2G"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="vXp-U4-Rya" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="47.826086956521742" y="20.758928571428569"/>
+        </scene>
+    </scenes>
+</document>

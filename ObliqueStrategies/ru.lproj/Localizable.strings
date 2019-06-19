@@ -1,0 +1,42 @@
+/* About App */
+"About App" = "О Приложении";
+
+/* App Language */
+"App Language" = "Язык приложения";
+
+/* Cancel */
+"Cancel" = "Отмена";
+
+/* Cards Language */
+"Cards Language" = "Язык карточек";
+
+/* About App */
+"CleverStrategies is aimed to help developers, designers, engineers and anyone who is stuck during idea evaluation process to refresh their mind and think out of the box. \n \nThis app is based on Oblique Strategies cards created by Brian Eno and Peter Schmidt in 1975 in order to boost up creativity thinking process. Since first release, these cards have been used by many creative people all over the world including Coldplay, David Bowie, Talking Heads and Devo. \n \nCleverStrategies app includes all 6 editions of time-proven Oblique Strategies cards. \nRight here. Right now. Ready to use. \n \nFor further information on the original Oblique Strategies created by Brian Eno and Peter Schmidt visit this site: \n \nhttps://www.enoshop.co.uk/product/oblique-strategies.html" = "Приложение CleverStrategies создано специально для разработчиков, дизайнеров, инженеров и всех тех, кто столкнулся с преградами и ищет нестандартные и креативные подходы к их преодолению.\n\nБазой для этого приложения стали карточки Oblique Strategies, разработанные Брайаном Эно и Питером Шмидтом в 1975 году. После первого издания инструмент стремительно обрел популярность и пришёлся по душе пользователям, среди которых Coldplay, Дэвид Боуи, Talking Heads, Devo и многие другие.\n\nПриложение CleverStrategies включает в себя карточки всех 6-ти изданий Oblique Strategies. Теперь они доступны в новом формате. Прямо здесь. Прямо сейчас.\n\nДополнительную информацию относительно оригинальных карточек Oblique Strategies, созданных Брайаном Эно и Питером Шмидтом, можно получить перейдя по ссылке:\n\nhttps://www.enoshop.co.uk/product/oblique-strategies.html\n";
+
+/* Favorites */
+"Favorites" = "Избранное";
+
+/* Make a purchase */
+"Make a purchase" = "Приобрести";
+
+/* Preferences */
+"Preferences" = "Настройки";
+
+/* Purchase successfully restored. */
+"Purchase successfully restored." = "Покупка успешно восстановлена.";
+
+/* Remove Ads */
+"REMOVE ADS" = "УБРАТЬ РЕКЛАМУ";
+
+/* Restore */
+"Restore" = "Восстановить";
+
+/* Something went wrong... */
+"Something went wrong..." = "Что-то пошло не так...";
+
+/* You're all set */
+"You're all set" = "Готово!";
+
+/* Your purchase was successfull. */
+"Your purchase was successfull." = "Покупка успешна.";
+

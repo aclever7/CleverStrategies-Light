@@ -1,0 +1,42 @@
+/* About App */
+"About App" = "Uygulama Hakkında";
+
+/* App Language */
+"App Language" = "Uygulama Dili";
+
+/* Cancel */
+"Cancel" = "İptal Et";
+
+/* Cards Language */
+"Cards Language" = "Kart Dilleri";
+
+/* About App */
+"CleverStrategies is aimed to help developers, designers, engineers and anyone who is stuck during idea evaluation process to refresh their mind and think out of the box. \n \nThis app is based on Oblique Strategies cards created by Brian Eno and Peter Schmidt in 1975 in order to boost up creativity thinking process. Since first release, these cards have been used by many creative people all over the world including Coldplay, David Bowie, Talking Heads and Devo. \n \nCleverStrategies app includes all 6 editions of time-proven Oblique Strategies cards. \nRight here. Right now. Ready to use. \n \nFor further information on the original Oblique Strategies created by Brian Eno and Peter Schmidt visit this site: \n \nhttps://www.enoshop.co.uk/product/oblique-strategies.html" = "CleverStrategies yazılımcı, tasarımcı, mühendis ve fikir değerlendirme sürecinde takılan herkese fikirlerini tazelemek ve kutunun dışında düşünmek konusunda yardımcı olmayı amaçlamaktadır.  \n\nBu uygulama yaratıcı düşünme sürecini artırmak için 1975 yılında Brian Eno ve Peter Schmidt tarafından yaratılan Oblique Strategies kartlarına dayanmaktadır. İlk piyasaya çıktığından beri, bu kartlar, Coldplay, David Bowie, Talking Heads ve Devo dahil olmak üzere tüm dünyada birçok yaratıcı insan tarafından kullanılmaktadır.    \n\nCleverStrategies uygulaması, zaman içerisinde kanıtlanmış Eğik Stratejiler kartlarının tüm 6 basımını içermektedir. Tam burada. Şimdi. Kullanıma hazır.  \n\nBrian Eno ve Peter Schmidt tarafından oluşturulan orijinal Oblique Strategies hakkında daha fazla bilgi için bu siteyi ziyaret edin:  \n\nhttps://www.enoshop.co.uk/product/oblique-strategies.html";
+
+/* Favorites */
+"Favorites" = "Favoriler";
+
+/* Make a purchase */
+"Make a purchase" = "Satın al";
+
+/* Preferences */
+"Preferences" = "Tercihler";
+
+/* Purchase successfully restored. */
+"Purchase successfully restored." = "Satın alma başarıyla geri yüklendi.";
+
+/* Remove Ads */
+"REMOVE ADS" = "REKLAMLARI KALDIR";
+
+/* Restore */
+"Restore" = "Geri yükle";
+
+/* Something went wrong... */
+"Something went wrong..." = "Birşeyler ters gitti...";
+
+/* You're all set */
+"You're all set" = "Artık Hazırsın!";
+
+/* Your purchase was successfull. */
+"Your purchase was successfull." = "Satın alma işlemin başarılı oldu.";
+

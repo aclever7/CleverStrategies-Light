@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="CleverNudges Widget/Base.lproj/MainInterface.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="g33-wa-cIu.text">
+        <source>FavoriteNudgeLabel</source>
+        <target>FavoriteNudgeLabel</target>
+        <note>Class = "UILabel"; text = "FavoriteNudgeLabel"; ObjectID = "g33-wa-cIu";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CleverNudges Widget/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>Clever Strategies Favorites</source>
+        <target>Clever Strategies Favorites</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>CleverNudges Widget</source>
+        <target>CleverNudges Widget</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="CleverNudges Widget/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="No favorites to show">
+        <source>No favorites to show</source>
+        <target>No favorites to show</target>
+        <note>No favorites to show</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ObliqueStrategies/Base.lproj/Main.storyboard" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="4ay-ue-QxR.text">
+        <source>Ukrainian</source>
+        <target>Ukrainian</target>
+        <note>Class = "UILabel"; text = "Ukrainian"; ObjectID = "4ay-ue-QxR";</note>
+      </trans-unit>
+      <trans-unit id="5XO-ah-iWf.text">
+        <source>Russian</source>
+        <target>Russian</target>
+        <note>Class = "UILabel"; text = "Russian"; ObjectID = "5XO-ah-iWf";</note>
+      </trans-unit>
+      <trans-unit id="5gH-Oz-rEo.text">
+        <source>Cards Language</source>
+        <target>Cards Language</target>
+        <note>Class = "UILabel"; text = "Cards Language"; ObjectID = "5gH-Oz-rEo";</note>
+      </trans-unit>
+      <trans-unit id="5lA-Jv-XdV.text">
+        <source>English</source>
+        <target>English</target>
+        <note>Class = "UILabel"; text = "English"; ObjectID = "5lA-Jv-XdV";</note>
+      </trans-unit>
+      <trans-unit id="60c-3Q-XgC.title">
+        <source>Favorites</source>
+        <target>Favorites</target>
+        <note>Class = "UITabBarItem"; title = "Favorites"; ObjectID = "60c-3Q-XgC";</note>
+      </trans-unit>
+      <trans-unit id="AmV-h3-OSo.title">
+        <source>Cards</source>
+        <target>Cards</target>
+        <note>Class = "UINavigationItem"; title = "Cards"; ObjectID = "AmV-h3-OSo";</note>
+      </trans-unit>
+      <trans-unit id="Ayd-8e-BzR.text">
+        <source>Türkçe</source>
+        <target>Türkçe</target>
+        <note>Class = "UILabel"; text = "Türkçe"; ObjectID = "Ayd-8e-BzR";</note>
+      </trans-unit>
+      <trans-unit id="C6D-RT-gBE.title">
+        <source>Preferences</source>
+        <target>Preferences</target>
+        <note>Class = "UINavigationItem"; title = "Preferences"; ObjectID = "C6D-RT-gBE";</note>
+      </trans-unit>
+      <trans-unit id="FhZ-yK-Hh2.text">
+        <source>English</source>
+        <target>English</target>
+        <note>Class = "UILabel"; text = "English"; ObjectID = "FhZ-yK-Hh2";</note>
+      </trans-unit>
+      <trans-unit id="Fzb-tN-yWk.text">
+        <source>Remove Ads</source>
+        <target>Remove Ads</target>
+        <note>Class = "UILabel"; text = "Remove Ads"; ObjectID = "Fzb-tN-yWk";</note>
+      </trans-unit>
+      <trans-unit id="Gca-D5-Zgc.title">
+        <source>Cards</source>
+        <target>Cards</target>
+        <note>Class = "UITabBarItem"; title = "Cards"; ObjectID = "Gca-D5-Zgc";</note>
+      </trans-unit>
+      <trans-unit id="GuY-Sx-Ym1.text">
+        <source>Ukrainian</source>
+        <target>Ukrainian</target>
+        <note>Class = "UILabel"; text = "Ukrainian"; ObjectID = "GuY-Sx-Ym1";</note>
+      </trans-unit>
+      <trans-unit id="Hfa-NK-xdi.text">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Class = "UILabel"; text = "Title"; ObjectID = "Hfa-NK-xdi";</note>
+      </trans-unit>
+      <trans-unit id="HkA-1W-9jY.text">
+        <source>App Language</source>
+        <target>App Language</target>
+        <note>Class = "UILabel"; text = "App Language"; ObjectID = "HkA-1W-9jY";</note>
+      </trans-unit>
+      <trans-unit id="KVN-aQ-lEU.text">
+        <source>English</source>
+        <target>English</target>
+        <note>Class = "UILabel"; text = "English"; ObjectID = "KVN-aQ-lEU";</note>
+      </trans-unit>
+      <trans-unit id="L2n-y6-LQ2.text">
+        <source>Light Theme Mode</source>
+        <target>Light Theme Mode</target>
+        <note>Class = "UILabel"; text = "Light Theme Mode"; ObjectID = "L2n-y6-LQ2";</note>
+      </trans-unit>
+      <trans-unit id="LFJ-oQ-8AL.text">
+        <source>Turkish</source>
+        <target>Turkish</target>
+        <note>Class = "UILabel"; text = "Turkish"; ObjectID = "LFJ-oQ-8AL";</note>
+      </trans-unit>
+      <trans-unit id="LLe-GZ-em5.headerTitle">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UITableViewSection"; headerTitle = " "; ObjectID = "LLe-GZ-em5";</note>
+      </trans-unit>
+      <trans-unit id="M9C-AS-wZi.title">
+        <source>Preferences</source>
+        <target>Preferences</target>
+        <note>Class = "UITabBarItem"; title = "Preferences"; ObjectID = "M9C-AS-wZi";</note>
+      </trans-unit>
+      <trans-unit id="MAv-gP-sc9.text">
+        <source>Русский</source>
+        <target>Русский</target>
+        <note>Class = "UILabel"; text = "Русский"; ObjectID = "MAv-gP-sc9";</note>
+      </trans-unit>
+      <trans-unit id="MX1-YK-dNV.text">
+        <source>French</source>
+        <target>French</target>
+        <note>Class = "UILabel"; text = "French"; ObjectID = "MX1-YK-dNV";</note>
+      </trans-unit>
+      <trans-unit id="O0h-bf-Rid.text">
+        <source>Українська</source>
+        <target>Українська</target>
+        <note>Class = "UILabel"; text = "Українська"; ObjectID = "O0h-bf-Rid";</note>
+      </trans-unit>
+      <trans-unit id="PEY-BU-wGY.text">
+        <source>Français</source>
+        <target>Français</target>
+        <note>Class = "UILabel"; text = "Français"; ObjectID = "PEY-BU-wGY";</note>
+      </trans-unit>
+      <trans-unit id="Q2K-Fl-QL5.text">
+        <source>Italian</source>
+        <target>Italian</target>
+        <note>Class = "UILabel"; text = "Italian"; ObjectID = "Q2K-Fl-QL5";</note>
+      </trans-unit>
+      <trans-unit id="RnG-e2-WRJ.text">
+        <source>French</source>
+        <target>French</target>
+        <note>Class = "UILabel"; text = "French"; ObjectID = "RnG-e2-WRJ";</note>
+      </trans-unit>
+      <trans-unit id="Ugf-dY-kGQ.text">
+        <source>FavoriteNudgeTextLabel</source>
+        <target>FavoriteNudgeTextLabel</target>
+        <note>Class = "UILabel"; text = "FavoriteNudgeTextLabel"; ObjectID = "Ugf-dY-kGQ";</note>
+      </trans-unit>
+      <trans-unit id="UtO-L8-px2.text">
+        <source>Italiano</source>
+        <target>Italiano</target>
+        <note>Class = "UILabel"; text = "Italiano"; ObjectID = "UtO-L8-px2";</note>
+      </trans-unit>
+      <trans-unit id="bBy-3N-e2o.title">
+        <source>Favorites</source>
+        <target>Favorites</target>
+        <note>Class = "UINavigationItem"; title = "Favorites"; ObjectID = "bBy-3N-e2o";</note>
+      </trans-unit>
+      <trans-unit id="bk8-Tm-e89.text">
+        <source>Russian</source>
+        <target>Russian</target>
+        <note>Class = "UILabel"; text = "Russian"; ObjectID = "bk8-Tm-e89";</note>
+      </trans-unit>
+      <trans-unit id="cSe-FO-Vvi.text">
+        <source>Shake or swipe left</source>
+        <target>Shake or swipe left</target>
+        <note>Class = "UILabel"; text = "Shake or swipe left"; ObjectID = "cSe-FO-Vvi";</note>
+      </trans-unit>
+      <trans-unit id="ghz-0Y-9YT.text">
+        <source>English</source>
+        <target>English</target>
+        <note>Class = "UILabel"; text = "English"; ObjectID = "ghz-0Y-9YT";</note>
+      </trans-unit>
+      <trans-unit id="grF-Of-J0d.headerTitle">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UITableViewSection"; headerTitle = " "; ObjectID = "grF-Of-J0d";</note>
+      </trans-unit>
+      <trans-unit id="h7B-2Z-sW3.text">
+        <source>English</source>
+        <target>English</target>
+        <note>Class = "UILabel"; text = "English"; ObjectID = "h7B-2Z-sW3";</note>
+      </trans-unit>
+      <trans-unit id="hgc-hP-dgD.text">
+        <source>English</source>
+        <target>English</target>
+        <note>Class = "UILabel"; text = "English"; ObjectID = "hgc-hP-dgD";</note>
+      </trans-unit>
+      <trans-unit id="jU4-UT-lSj.headerTitle">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UITableViewSection"; headerTitle = " "; ObjectID = "jU4-UT-lSj";</note>
+      </trans-unit>
+      <trans-unit id="lUB-2k-gMF.text">
+        <source>NudgeTextLabel</source>
+        <target>NudgeTextLabel</target>
+        <note>Class = "UILabel"; text = "NudgeTextLabel"; ObjectID = "lUB-2k-gMF";</note>
+      </trans-unit>
+      <trans-unit id="nfK-Da-jH9.text">
+        <source>Français</source>
+        <target>Français</target>
+        <note>Class = "UILabel"; text = "Français"; ObjectID = "nfK-Da-jH9";</note>
+      </trans-unit>
+      <trans-unit id="pVe-98-Xuo.text">
+        <source>aboutAppLabel</source>
+        <target>aboutAppLabel</target>
+        <note>Class = "UILabel"; text = "aboutAppLabel"; ObjectID = "pVe-98-Xuo";</note>
+      </trans-unit>
+      <trans-unit id="qXc-i1-nYC.text">
+        <source>versionAppLabel</source>
+        <target>versionAppLabel</target>
+        <note>Class = "UILabel"; text = "versionAppLabel"; ObjectID = "qXc-i1-nYC";</note>
+      </trans-unit>
+      <trans-unit id="r0x-xb-CsN.text">
+        <source>Русский</source>
+        <target>Русский</target>
+        <note>Class = "UILabel"; text = "Русский"; ObjectID = "r0x-xb-CsN";</note>
+      </trans-unit>
+      <trans-unit id="tXH-Po-Ye0.headerTitle">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UITableViewSection"; headerTitle = " "; ObjectID = "tXH-Po-Ye0";</note>
+      </trans-unit>
+      <trans-unit id="uFb-Fa-GaP.text">
+        <source>About App</source>
+        <target>About App</target>
+        <note>Class = "UILabel"; text = "About App"; ObjectID = "uFb-Fa-GaP";</note>
+      </trans-unit>
+      <trans-unit id="wO0-xV-15K.headerTitle">
+        <source> </source>
+        <target> </target>
+        <note>Class = "UITableViewSection"; headerTitle = " "; ObjectID = "wO0-xV-15K";</note>
+      </trans-unit>
+      <trans-unit id="yh9-T8-xW0.text">
+        <source>Українська</source>
+        <target>Українська</target>
+        <note>Class = "UILabel"; text = "Українська"; ObjectID = "yh9-T8-xW0";</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ObliqueStrategies/en.lproj/InfoPlist.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleDisplayName">
+        <source>CleverStrategies</source>
+        <target>CleverStrategies</target>
+        <note>Bundle display name</note>
+      </trans-unit>
+      <trans-unit id="CFBundleName">
+        <source>ObliqueStrategies</source>
+        <target>ObliqueStrategies</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="ObliqueStrategies/en.lproj/Localizable.strings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="10.2.1" build-num="10E1001"/>
+    </header>
+    <body>
+      <trans-unit id="About App">
+        <source>About App</source>
+        <target>About App</target>
+        <note>About App</note>
+      </trans-unit>
+      <trans-unit id="App Language">
+        <source>App Language</source>
+        <target>App Language</target>
+        <note>App Language</note>
+      </trans-unit>
+      <trans-unit id="Cancel">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Cancel</note>
+      </trans-unit>
+      <trans-unit id="Cards Language">
+        <source>Cards Language</source>
+        <target>Cards Language</target>
+        <note>Cards Language</note>
+      </trans-unit>
+      <trans-unit id="CleverStrategies is aimed to help developers, designers, engineers and anyone who is stuck during idea evaluation process to refresh their mind and think out of the box. &#10; &#10;This app is based on Oblique Strategies cards created by Brian Eno and Peter Schmidt in 1975 in order to boost up creativity thinking process. Since first release, these cards have been used by many creative people all over the world including Coldplay, David Bowie, Talking Heads and Devo. &#10; &#10;CleverStrategies app includes all 6 editions of time-proven Oblique Strategies cards. &#10;Right here. Right now. Ready to use. &#10; &#10;For further information on the original Oblique Strategies created by Brian Eno and Peter Schmidt visit this site: &#10; &#10;https://www.enoshop.co.uk/product/oblique-strategies.html">
+        <source>CleverStrategies is aimed to help developers, designers, engineers and anyone who is stuck during idea evaluation process to refresh their mind and think out of the box. 
+ 
+This app is based on Oblique Strategies cards created by Brian Eno and Peter Schmidt in 1975 in order to boost up creativity thinking process. Since first release, these cards have been used by many creative people all over the world including Coldplay, David Bowie, Talking Heads and Devo. 
+ 
+CleverStrategies app includes all 6 editions of time-proven Oblique Strategies cards. 
+Right here. Right now. Ready to use. 
+ 
+For further information on the original Oblique Strategies created by Brian Eno and Peter Schmidt visit this site: 
+ 
+https://www.enoshop.co.uk/product/oblique-strategies.html</source>
+        <target>CleverStrategies is aimed to help developers, designers, engineers and anyone who is stuck during idea evaluation process to refresh their mind and think out of the box. 
+ 
+This app is based on Oblique Strategies cards created by Brian Eno and Peter Schmidt in 1975 in order to boost up creativity thinking process. Since first release, these cards have been used by many creative people all over the world including Coldplay, David Bowie, Talking Heads and Devo. 
+ 
+CleverStrategies app includes all 6 editions of time-proven Oblique Strategies cards. 
+Right here. Right now. Ready to use. 
+ 
+For further information on the original Oblique Strategies created by Brian Eno and Peter Schmidt visit this site: 
+ 
+https://www.enoshop.co.uk/product/oblique-strategies.html</target>
+        <note>About App</note>
+      </trans-unit>
+      <trans-unit id="Favorites">
+        <source>Favorites</source>
+        <target>Favorites</target>
+        <note>Favorites</note>
+      </trans-unit>
+      <trans-unit id="Make a purchase">
+        <source>Make a purchase</source>
+        <target>Make a purchase</target>
+        <note>Make a purchase</note>
+      </trans-unit>
+      <trans-unit id="Preferences">
+        <source>Preferences</source>
+        <target>Preferences</target>
+        <note>Preferences</note>
+      </trans-unit>
+      <trans-unit id="Purchase successfully restored.">
+        <source>Purchase successfully restored.</source>
+        <target>Purchase successfully restored.</target>
+        <note>Purchase successfully restored.</note>
+      </trans-unit>
+      <trans-unit id="REMOVE ADS">
+        <source>REMOVE ADS</source>
+        <target>REMOVE ADS</target>
+        <note>Remove Ads</note>
+      </trans-unit>
+      <trans-unit id="Restore">
+        <source>Restore</source>
+        <target>Restore</target>
+        <note>Restore</note>
+      </trans-unit>
+      <trans-unit id="Something went wrong...">
+        <source>Something went wrong...</source>
+        <target>Something went wrong...</target>
+        <note>Something went wrong...</note>
+      </trans-unit>
+      <trans-unit id="You're all set">
+        <source>You're all set</source>
+        <target>You're all set</target>
+        <note>You're all set</note>
+      </trans-unit>
+      <trans-unit id="Your purchase was successfull.">
+        <source>Your purchase was successfull.</source>
+        <target>Your purchase was successfull.</target>
+        <note>Your purchase was successfull.</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

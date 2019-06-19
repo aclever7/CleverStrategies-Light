@@ -1,0 +1,42 @@
+/* About App */
+"About App" = "A propos de l'App";
+
+/* App Language */
+"App Language" = "Langage de l'App";
+
+/* Cancel */
+"Cancel" = "Annuler";
+
+/* Cards Language */
+"Cards Language" = "Langage des cartes";
+
+/* About App */
+"CleverStrategies is aimed to help developers, designers, engineers and anyone who is stuck during idea evaluation process to refresh their mind and think out of the box. \n \nThis app is based on Oblique Strategies cards created by Brian Eno and Peter Schmidt in 1975 in order to boost up creativity thinking process. Since first release, these cards have been used by many creative people all over the world including Coldplay, David Bowie, Talking Heads and Devo. \n \nCleverStrategies app includes all 6 editions of time-proven Oblique Strategies cards. \nRight here. Right now. Ready to use. \n \nFor further information on the original Oblique Strategies created by Brian Eno and Peter Schmidt visit this site: \n \nhttps://www.enoshop.co.uk/product/oblique-strategies.html" = "CleverStrategies est destiné à aider les développeurs, les designers, les ingénieurs, et tous ceux qui se retrouvent bloqués au cours d’un processus créatif, à rafraîchir leur esprit et penser en dehors de la boîte.\n\nCette application est basée sur les cartes Stratégies Obliques, créées par Brian Eno et Peter Schmidt en 1975 afin de booster la créativité. Depuis leur première parution, ces cartes ont été utilisées par de nombreuses personnes créatives autour du monde, dont Coldplay, David Bowie, Talking Heads et Devo. \n\nL’application CleverStrategies contient les 6 éditions des cartes Stratégies Obliques. Ici et maintenant, prêtes à l’emploi. \n\nPour de plus amples informations sur les Stratégies Obliques créées par Brian Eno et Peter Schmidt, vous pouvez visiter ce site:\n\nhttps://www.enoshop.co.uk/product/oblique-strategies.html";
+
+/* Favorites */
+"Favorites" = "Favoris";
+
+/* Make a purchase */
+"Make a purchase" = "Faire un achat";
+
+/* Preferences */
+"Preferences" = "Préférences";
+
+/* Purchase successfully restored. */
+"Purchase successfully restored." = "Achat restauré avec succès.";
+
+/* Remove Ads */
+"REMOVE ADS" = "SUPPRIMER LA PUBLICITE";
+
+/* Restore */
+"Restore" = "Restaurer";
+
+/* Something went wrong... */
+"Something went wrong..." = "Quelque chose n'a pas fonctionné...";
+
+/* You're all set */
+"You're all set" = "Tout est prêt ";
+
+/* Your purchase was successfull. */
+"Your purchase was successfull." = "Votre achat a bien été enregistré.";
+

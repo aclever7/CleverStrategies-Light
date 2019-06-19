@@ -1,0 +1,90 @@
+/* Class = "UILabel"; text = "Cards Language"; ObjectID = "5gH-Oz-rEo"; */
+"5gH-Oz-rEo.text" = "Langage des cartes";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "5lA-Jv-XdV"; */
+"5lA-Jv-XdV.text" = "English";
+
+/* Class = "UILabel"; text = "Russian"; ObjectID = "5XO-ah-iWf"; */
+"5XO-ah-iWf.text" = "Russian";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "60c-3Q-XgC"; */
+"60c-3Q-XgC.title" = "Favoris";
+
+/* Class = "UINavigationItem"; title = "Cards"; ObjectID = "AmV-h3-OSo"; */
+"AmV-h3-OSo.title" = "Cartes";
+
+/* Class = "UINavigationItem"; title = "Favorites"; ObjectID = "bBy-3N-e2o"; */
+"bBy-3N-e2o.title" = "Favoris";
+
+/* Class = "UILabel"; text = "Russian"; ObjectID = "bk8-Tm-e89"; */
+"bk8-Tm-e89.text" = "Russian";
+
+/* Class = "UINavigationItem"; title = "Preferences"; ObjectID = "C6D-RT-gBE"; */
+"C6D-RT-gBE.title" = "Préférences";
+
+/* Class = "UILabel"; text = "Shake or swipe left"; ObjectID = "cSe-FO-Vvi"; */
+"cSe-FO-Vvi.text" = "Secouer ou swipe vers la gauche";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "FhZ-yK-Hh2"; */
+"FhZ-yK-Hh2.text" = "English";
+
+/* Class = "UILabel"; text = "Remove Ads"; ObjectID = "Fzb-tN-yWk"; */
+"Fzb-tN-yWk.text" = "Supprimer la publicité";
+
+/* Class = "UITabBarItem"; title = "Cards"; ObjectID = "Gca-D5-Zgc"; */
+"Gca-D5-Zgc.title" = "Cartes";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "ghz-0Y-9YT"; */
+"ghz-0Y-9YT.text" = "English";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "grF-Of-J0d"; */
+"grF-Of-J0d.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "h7B-2Z-sW3"; */
+"h7B-2Z-sW3.text" = "Français";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Hfa-NK-xdi"; */
+"Hfa-NK-xdi.text" = "Title";
+
+/* Class = "UILabel"; text = "English"; ObjectID = "hgc-hP-dgD"; */
+"hgc-hP-dgD.text" = "English";
+
+/* Class = "UILabel"; text = "App Language"; ObjectID = "HkA-1W-9jY"; */
+"HkA-1W-9jY.text" = "Langage de l'App";
+
+/* Class = "UILabel"; text = "Light Theme Mode"; ObjectID = "L2n-y6-LQ2"; */
+"L2n-y6-LQ2.text" = "Mode Clair";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "LLe-GZ-em5"; */
+"LLe-GZ-em5.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "NudgeTextLabel"; ObjectID = "lUB-2k-gMF"; */
+"lUB-2k-gMF.text" = "NudgeTextLabel";
+
+/* Class = "UITabBarItem"; title = "Preferences"; ObjectID = "M9C-AS-wZi"; */
+"M9C-AS-wZi.title" = "Préférences";
+
+/* Class = "UILabel"; text = "Русский"; ObjectID = "MAv-gP-sc9"; */
+"MAv-gP-sc9.text" = "Русский";
+
+/* Class = "UILabel"; text = "Italian"; ObjectID = "Q2K-Fl-QL5"; */
+"Q2K-Fl-QL5.text" = "Italian";
+
+/* Class = "UILabel"; text = "Русский"; ObjectID = "r0x-xb-CsN"; */
+"r0x-xb-CsN.text" = "Русский";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "tXH-Po-Ye0"; */
+"tXH-Po-Ye0.headerTitle" = " ";
+
+/* Class = "UILabel"; text = "About App"; ObjectID = "uFb-Fa-GaP"; */
+"uFb-Fa-GaP.text" = "A propos de l'App";
+
+/* Class = "UILabel"; text = "FavoriteNudgeTextLabel"; ObjectID = "Ugf-dY-kGQ"; */
+"Ugf-dY-kGQ.text" = "FavoriteNudgeTextLabel";
+
+/* Class = "UILabel"; text = "Italiano"; ObjectID = "UtO-L8-px2"; */
+"UtO-L8-px2.text" = "Italiano";
+
+/* Class = "UITableViewSection"; headerTitle = " "; ObjectID = "wO0-xV-15K"; */
+"wO0-xV-15K.headerTitle" = " ";
+
