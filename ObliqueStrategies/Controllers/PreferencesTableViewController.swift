@@ -70,12 +70,6 @@ class PreferencesTableViewController: UITableViewController {
             
             reload()
             
-//            let activityIndicator = UIActivityIndicatorView()
-//            activityIndicator.color = UIColor.lightGray
-//            activityIndicator.center = CGPoint(x: tableView.frame.width/2, y: tableView.frame.height/2)
-//            activityIndicator.startAnimating()
-//            tableView.addSubview(activityIndicator)
-            
             let alertRemoveAds = UIAlertController(title: NSLocalizedString("REMOVE ADS", comment: "Remove Ads"), message: "", preferredStyle: .alert)
             let purchaseAction = UIAlertAction(title: NSLocalizedString("Make a purchase", comment: "Make a purchase"), style: .default) { (action: UIAlertAction) in if self.products.isEmpty == false {
                 removeAdsPurchase.store.buyProduct(self.products.first!)}}
