@@ -24,7 +24,7 @@ class AboutTableViewController: UITableViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-//        navigationItem.largeTitleDisplayMode = .never
+        
         navigationItem.title = NSLocalizedString("About App", comment: "About App")
         
         aboutAppLabel.text = aboutApp
