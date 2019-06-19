@@ -26,7 +26,7 @@ class AppLanguageTableViewController: UITableViewController {
     override func viewDidLoad() {
         
         super.viewDidLoad()
-//        navigationItem.largeTitleDisplayMode = .never
+        
         navigationItem.title = NSLocalizedString("App Language", comment: "App Language")
     }
     
